@@ -4,32 +4,42 @@
 </picture>
 </div>
 
-<div class="social" style="display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    padding: 20px;
-    gap: 64px;">
-<a href="https://github.com/alan-elias" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
-</a>
-<a href="https://linkedin.com/in/alan-elias" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"/>
-</a>
-<a href="https://discordapp.com/users/alanelias#7318/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/discord.png"/>
-</a>
-<a href="https://t.me/alanelias" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/telegram-app.png"/>
-</a>
-</div>
-
+<br>
+<br>
 
 <!-- Subtitle -->
 <div class="skills" style="display: flex; flex-direction: column ;align-items: center; font-weight: 600; padding: 20px">
 
   Bachelor in Statistics | Data Cientist | Graphic Design
 </div>
+
+<br>
+<br>
+
+<div class="social" style="display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    gap: 64px;">
+<!--<a href="https://github.com/alan-elias" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
+</a> -->
+<a href="https://linkedin.com/in/alan-elias" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"/>
+</a>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://discordapp.com/users/alanelias#7318/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/discord.png"/>
+</a>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://t.me/alanelias" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/telegram-app.png"/>
+</a>
+</div>
+
+<br>
+<br>
 
 
 <!-- Main Content -->
@@ -41,8 +51,7 @@
       <img src="https://img.icons8.com/ios-filled/30/000000/brazil.png"/>
   </picture>
 
-  <p font-weight: 300;
-    text-align: justify;>
+  <p style="text-align: justify;">
     Meu nome é Alan, nasci no ano de 1999 no Brasil na cidade de Aracaju no estado de Sergipe. Sou bacharel em Estatística pela Universidade Federal de Sergipe. Dentro da graduação nas inúmeras possibilidades da  estatística optei por aplicar a análise de dados nas áreas de ciências de dados e aprendizagem de máquina.
   </p>
   
@@ -56,6 +65,8 @@
 
 <!-- Most used languages -->
 
+<br>
+<br>
 
 <div style= "display: flex; flex-direction: column; justify-content: space-around;
     align-items: center; padding: 20px;">
@@ -64,6 +75,9 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-elias&layout=compact&langs_count=5&theme=midnight-purple"/>
   </a>
 </div>
+
+<br>
+<br>
 
 <div class="banner" style="padding: 20px">
 <picture>
