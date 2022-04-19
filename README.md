@@ -1,3 +1,4 @@
+
 <div class="banner">
 <picture>
     <img src="https://raw.githubusercontent.com/alan-elias/README/main/banner_readme.png" alt="Alan." width="800"/>
@@ -43,24 +44,17 @@
 
 
 <!-- Main Content -->
-<div class="conteudo" style="display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;">
-  <!--<picture class="flag" style="filter: invert(1);">
-      <img src="https://img.icons8.com/ios-filled/30/000000/brazil.png"/>
-  </picture>-->
+<div class="conteudo" style="text-align: justify;">
 
-  <p style="text-align: justify;">
-    Meu nome é Alan, nasci no ano de 1999 no Brasil na cidade de Aracaju no estado de Sergipe. Sou bacharel em Estatística pela Universidade Federal de Sergipe. Dentro da graduação nas inúmeras possibilidades da  estatística optei por aplicar a análise de dados nas áreas de ciências de dados e aprendizagem de máquina.
-  </p>
-  
-  <!--<picture class="flag" style="filter: invert(1)">
-      <img src="https://img.icons8.com/ios-filled/30/000000/great-britain.png"/>
-  </picture>-->
-  <p>
-    My name is Alan, I was born in 1999 in Brazil in the city of Aracaju in the state of Sergipe. I have a degree in Statistics from the Federal University of Sergipe. As part of my graduation, I chose to apply data analysis in the areas of data science and machine learning in the countless possibilities of statistics.
-  </p>
+<p>
+    Meu nome é Alan, nasci no ano de 1999 no Brasil na cidade de Aracaju no estado de Sergipe. Sou bacharel em Estatística pela Universidade Federal de Sergipe. Dentro     da graduação nas inúmeras possibilidades da  estatística optei por aplicar a análise de dados nas áreas de ciências de dados e aprendizagem de máquina.
+</p>
+    
+<br>
+
+<p>
+    My name is Alan, I was born in 1999 in Brazil in the city of Aracaju in the state of Sergipe. I have a degree in Statistics from the Federal University of Sergipe.     As part of my graduation, I chose to apply data analysis in the areas of data science and machine learning in the countless possibilities of statistics.
+</p>
 </div>
 
 <!-- Most used languages -->
