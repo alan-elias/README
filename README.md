@@ -47,18 +47,18 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;">
-  <picture class="flag" style="filter: invert(1);">
+  <!--<picture class="flag" style="filter: invert(1);">
       <img src="https://img.icons8.com/ios-filled/30/000000/brazil.png"/>
-  </picture>
+  </picture>-->
 
   <p style="text-align: justify;">
     Meu nome é Alan, nasci no ano de 1999 no Brasil na cidade de Aracaju no estado de Sergipe. Sou bacharel em Estatística pela Universidade Federal de Sergipe. Dentro da graduação nas inúmeras possibilidades da  estatística optei por aplicar a análise de dados nas áreas de ciências de dados e aprendizagem de máquina.
   </p>
   
-  <picture class="flag" style="filter: invert(1)">
+  <!--<picture class="flag" style="filter: invert(1)">
       <img src="https://img.icons8.com/ios-filled/30/000000/great-britain.png"/>
   </picture>
-  <p>
+  <p>-->
     My name is Alan, I was born in 1999 in Brazil in the city of Aracaju in the state of Sergipe. I have a degree in Statistics from the Federal University of Sergipe. As part of my graduation, I chose to apply data analysis in the areas of data science and machine learning in the countless possibilities of statistics.
   </p>
 </div>
@@ -68,7 +68,7 @@
 <br>
 <br>
 
-<div style= "display: flex; flex-direction: column; justify-content: space-around;
+<div style= "display: flex; flex-direction: row; justify-content: space-around;
     align-items: center; padding: 20px;">
   <a href="https://github.com/alan-elias">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alan-elias&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
