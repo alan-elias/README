@@ -57,8 +57,8 @@
   
   <!--<picture class="flag" style="filter: invert(1)">
       <img src="https://img.icons8.com/ios-filled/30/000000/great-britain.png"/>
-  </picture>
-  <p>-->
+  </picture>-->
+  <p>
     My name is Alan, I was born in 1999 in Brazil in the city of Aracaju in the state of Sergipe. I have a degree in Statistics from the Federal University of Sergipe. As part of my graduation, I chose to apply data analysis in the areas of data science and machine learning in the countless possibilities of statistics.
   </p>
 </div>
