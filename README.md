@@ -9,19 +9,18 @@
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    gap: 64px;
-    filter: invert(1);">
+    gap: 64px;">
 <a href="https://github.com/alan-elias" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 </a>
 <a href="https://linkedin.com/in/alan-elias" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"/>
 </a>
 <a href="https://discordapp.com/users/alanelias#7318/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/000000/discord.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/discord.png"/>
 </a>
 <a href="https://t.me/alanelias" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/000000/telegram-app.png"/>
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/telegram-app.png"/>
 </a>
 </div>
 
