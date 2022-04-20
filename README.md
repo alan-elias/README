@@ -1,7 +1,7 @@
 
 <div class="banner" align="center">
 <picture>
-    <img src="https://raw.githubusercontent.com/alan-elias/README/main/banner_readme.png" alt="Alan" width="800"/>
+    <img src="https://raw.githubusercontent.com/alan-elias/README/main/banner_readme.png" alt="Alan" width="100%"/>
 </picture>
     <hr size=0.5 align="center" width=79.2% >
 </div>
@@ -100,6 +100,6 @@
 
 <div class="banner" align="center" style="padding: 20px">
 <picture>
-    <img src="https://raw.githubusercontent.com/alan-elias/README/main/footer.png" alt="Alan." width="800"/>
+    <img src="https://raw.githubusercontent.com/alan-elias/README/main/footer.png" alt="Alan." width="100%"/>
 </picture>
 </div>
