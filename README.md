@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 </a> -->
     <h3> Social networks and contacts </h3>
-<a href="https://linkedin.com/in/alan-elias"">
+<a href="https://linkedin.com/in/alan-elias">
     <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"  target="_blank">
 </a>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
