@@ -23,17 +23,21 @@
 <!--<a href="https://github.com/alan-elias" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 </a> -->
-    <h3> Social networks </h3>
-<a href="https://linkedin.com/in/alan-elias" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"/>
+    <h3> Social networks and contacts </h3>
+<a href="https://linkedin.com/in/alan-elias"">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"  target="_blank">
 </a>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://discordapp.com/users/alanelias#7318/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/discord.png"/>
+<a href="https://discordapp.com/users/alanelias#7318/">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/discord.png"  target="_blank">
 </a>
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://t.me/alanelias" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/telegram-app.png"/>
+<a href="https://t.me/alanelias">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/telegram-app.png"  target="_blank">
+</a>
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href = "mailto:alaneliasn@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png" target="_blank">
 </a>
 </div>
 
