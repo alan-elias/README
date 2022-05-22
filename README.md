@@ -39,7 +39,7 @@
 <a href = "mailto:alaneliasn@gmail.com"  target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/gmail.png">
 </a>
-    nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href = "https://twitter.com/alanelias_ds"  target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/twitter.png">
 </a>
